@@ -1,6 +1,6 @@
-### Hi there 👋. I am Vaishak K and this is my profile
+### Hi there 👋. I am Harish Dhulipalla and this is my profile
 
-- I am currently working as a software developer.
+- I am currently working as a Full stack software developer.
 - An open source enthusiast, wanting to learn new technologies and contribute to the dev community.
 - Reach me at: <a href="mailto:d.harishdhulipalla@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 - Connect with me:
